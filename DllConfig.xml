@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DLL_FormConfig>
+	<ID_0x0008F720 Name="OoOoO" ActivePage="5">
+		<Script Path="" PermitMultistart="false"/>
+		<HotKeys HK_OnOff="true"/>
+		<Display OnOff="true" AutoSearchCont="false" ShowIcons="false" ShowCharNotoriety="false" BigFont="false">
+			<CaptionItems/>
+		</Display>
+		<Skills ShowOnlyNonzero="false"/>
+		<Main Light="false" AlwaysRun="false" Undead="false" CorpsesAutoOpen="false" StealthSteps="false" SelfCorpseTracker="false" ScriptAutoStart="false" PrefixEditChange=","/>
+		<ObjectTypes/>
+		<Objects/>
+	</ID_0x0008F720>
+	<ID_0x000C303C Name="a nice guy" ActivePage="5">
+    <Script Path="" PermitMultistart="false"/>
+    <HotKeys HK_OnOff="true"/>
+    <Display OnOff="true" AutoSearchCont="false" ShowIcons="false" ShowCharNotoriety="false" BigFont="false">
+      <CaptionItems/>
+    </Display>
+    <Skills ShowOnlyNonzero="false"/>
+    <Main Light="false" AlwaysRun="false" Undead="false" CorpsesAutoOpen="false" StealthSteps="false" SelfCorpseTracker="false" ScriptAutoStart="false" PrefixEditChange=","/>
+    <ObjectTypes/>
+    <Objects/>
+  </ID_0x000C303C>
+</DLL_FormConfig>
